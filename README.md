@@ -1,16 +1,79 @@
 ### Hi there 👋
+###
 
-<!--
-**Sanjarbek17/Sanjarbek17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">I'm a Flutter and Django developer who enjoys working on both frontend and backend. Currently, I'm also interested in learning project management 📈.</p>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">About Me 🙋‍♂️</h2>
+
+###
+
+<p align="left">I have experience working as a full-stack developer, with skills in both frontend and backend development. My goal is to become a proficient project manager, able to lead and guide development teams to success.</p>
+
+###
+
+<h2 align="left">What I'm Working On 🚀</h2>
+
+###
+
+<p align="left">I'm currently working on teaching programming languages to students 👨‍🏫 and creating new projects 🛠️. I'm always looking for new opportunities to collaborate with others and expand my skillset.</p>
+
+###
+
+<h2 align="left">My Skills 🤹‍♂️</h2>
+
+###
+
+<p align="left">I have experience using Git to store and manage code on GitHub 🐙. I've also learned to use Vim for faster coding ⚡. In terms of programming languages, I'm proficient in Python 🐍 and Dart 🎯.</p>
+
+###
+
+<h2 align="left">Get In Touch 📩</h2>
+
+###
+
+<p align="left">Feel free to reach out to me on LinkedIn or telegram if you're interested in collaborating or discussing potential projects. I'm always open to learning from others and sharing my knowledge.</p>
+
+###
+
+<h2 align="left">Fun Fact 🎉</h2>
+
+###
+
+<p align="left">I have a talent for quickly learning new things 🧠, which has allowed me to continually expand my skills and knowledge in various areas.</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" width="52" alt="vim logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/sanjar-saidov-1a111423b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/channels/@SANJAR#7425" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://t.me/sanjarbek1718" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjarbek17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanjarbek17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
