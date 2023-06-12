@@ -3,6 +3,9 @@
 
 <p align="left">I'm a Flutter and Django developer who enjoys working on both frontend and backend. Currently, I'm also interested in learning project management 📈.</p>
 
+## Github stats
+![Rustam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjarbek17&show_icons=true&theme=tokyonight)
+
 ###
 
 <h2 align="left">About Me 🙋‍♂️</h2>
